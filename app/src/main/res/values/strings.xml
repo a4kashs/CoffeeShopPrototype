@@ -1,8 +1,8 @@
 <resources>
     <string name="app_name">CoffeeShopPrototype</string>
     <string name="title_home">Home</string>
-    <string name="title_dashboard">Order</string>
-    <string name="title_notifications">Menu</string>
+    <string name="title_order">Order</string>
+    <string name="title_menu">Menu</string>
     <string name="order_coffee">Make an Order</string>
     <string name="black_coffee">Black Coffee</string>
     <string name="latte">Latte</string>

@@ -1,10 +1,10 @@
-package com.example.coffeeshopprototype.ui.dashboard
+package com.example.coffeeshopprototype.ui.order
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class DashboardViewModel : ViewModel() {
+class OrderViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
         value = ""
