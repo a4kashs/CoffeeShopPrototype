@@ -37,6 +37,9 @@
     <string name="coffees">Coffees</string>
     <string name="baking_goods">Baking Goods</string>
     <string name="beans">Beans</string>
+    <string name="black_coffee_description">This is a black coffee</string>
+    <string name="cappuccino_description">This is a cappuccino</string>
+    <string name="latte_description">This is a latte</string>
 
 
 </resources>
